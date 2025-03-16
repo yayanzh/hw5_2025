@@ -227,7 +227,7 @@ Edit the css for the gallery class to use flex to match our example. (You may wa
     Without using list-style-type add the thumbs up entity as shown in the cards. */
 
     .card ul li:nth-child(2)::after{
-        content: "👍";
+        content: "\1F44D";
     }
 
 }
